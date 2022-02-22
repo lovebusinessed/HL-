@@ -1,0 +1,830 @@
+<html class="FB_FW_ext GCPlugin2" dir="ltr" lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="sentry-trace" content="17358125886d40609f91813fb2086cb4-927ee24d67a4bd50-0">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Regular-bd03a2cc27.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+    <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Bold-cccb897485.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+    <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Italic-4eb103b4d1.woff2" as="font" type="font/woff2" crossorigin="anonmyous">
+    <link rel="stylesheet" media="screen" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/lato_extended-f5a83bde37.css">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>if (navigator.userAgent.match(/(MSIE|Trident\/)/)) location.replace('/ie-is-not-supported.html')</script>
+  
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico">
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.css">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/common-7c6b1b95e9.css">
+  <meta name="apple-itunes-app" content="app-id=480883488">
+<link rel="manifest" href="/web-app-manifest/manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#394B58">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/k6_theme-1aafe1941a.css">
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/speed_grader-48fef1bfda.css">
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/new_user_tutorials-2950c871dd.css">
+  
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          if (!e.defaultPrevented) {
+            e.preventDefault()
+          }
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+
+
+  <script>
+    INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"pdx.nv.instructuremedia.com","resource_domain":"pdx.nv.instructuremedia.com","rtmp_domain":"pdx.rtmp.instructuremedia.com","partner_id":3,"subpartner_id":0,"player_ui_conf":0,"kcw_ui_conf":0,"upload_ui_conf":0,"max_file_size_bytes":534773760,"js_uploader":"yes"},"logPageViews":true,"editorButtons":[{"name":"Studio","id":65,"favorite":true,"url":"https://fergflor.instructuremedia.com/lti/launch?custom_arc_launch_type=content_select\u0026custom_lti_use_case=editor_button","icon_url":"https://files.instructuremedia.com/logos/studio-logo-squid-tiny-electric.svg","canvas_icon_class":null,"width":560,"height":600,"use_tray":false,"description":"\u003cp\u003eVideo for Education\u003c/p\u003e\n"},{"name":"Google","id":66,"favorite":false,"url":"https://google-drive-lti-pdx-prod.instructure.com/lti/rce-content-selection","icon_url":"https://google-drive-lti-pdx-prod.instructure.com/icon.png","canvas_icon_class":null,"width":700,"height":600,"use_tray":false,"description":"\u003cp\u003eAllows you to pull in documents from Google Drive to Canvas\u003c/p\u003e\n"},{"name":"Commons Favorites","id":69,"favorite":false,"url":"https://lor.instructure.com/api/lti/favorite-resources/","icon_url":"https://lor.instructure.com/img/icon_commons.png","canvas_icon_class":"icon-commons","width":800,"height":400,"use_tray":true,"description":"\u003cp\u003eFind and share course content\u003c/p\u003e\n"},{"name":"YouTube","id":70,"favorite":false,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600,"use_tray":false,"description":"\u003cp\u003eSearch publicly available YouTube videos. A new icon will show up in your course rich editor letting you search YouTube and click to embed videos in your course material.\u003c/p\u003e\n"},{"name":"Google Drive (LTI 1.3)","id":253,"favorite":false,"url":"https://assignments.google.com/lti/e","icon_url":"https://www.gstatic.com/images/branding/product/1x/drive_16dp.png","canvas_icon_class":null,"width":690,"height":530,"use_tray":false,"description":"\u003cp\u003eCollect, analyze, and grade student work with Google Assignments\u003c/p\u003e\n"},{"name":"Discovery Education","id":946,"favorite":false,"url":"https://app.discoveryeducation.com/public:session/loginByLTI","icon_url":"https://app.discoveryeducation.com/static/img/canvas/logos/de-logo-16_16.png","canvas_icon_class":null,"width":850,"height":480,"use_tray":false,"description":""},{"name":"Newsela","id":5965,"favorite":false,"url":"https://newsela.com/apps/universal-embed/start/","icon_url":"https://i.imgur.com/CB1tBUH.png?1","canvas_icon_class":null,"width":800,"height":600,"use_tray":false,"description":""},{"name":"Savvas Realize Course Connect","id":6295,"favorite":true,"url":"https://ltitoolgateway-service.savvasrealize.com/lti_tool_gateway-service/oidc/launch","icon_url":"https://assets.savvas.com/asset_mgr/current/202019/Realize_Savvas_Logo_color_rgb.png","canvas_icon_class":null,"width":900,"height":600,"use_tray":false,"description":"\u003cp\u003eSavvas Realize Course Connect\u003c/p\u003e\n"}]};
+    ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-fa0672d544.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/lato_extended-f5a83bde37.css"],"url_for_high_contrast_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/responsive_layout_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-fa0672d544.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/lato_extended-f5a83bde37.css"],"current_user_id":"657","current_user_roles":["user","student","teacher"],"current_user_is_student":false,"current_user_types":[],"current_user_disabled_inbox":false,"discussions_reporting":true,"files_domain":"cluster342.canvas-user-content.com","DOMAIN_ROOT_ACCOUNT_ID":"166870000000000001","k12":false,"use_responsive_layout":true,"use_rce_a11y_checker_notifications":true,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":true,"auto_show_cc":false,"disable_celebrations":false,"disable_keyboard_shortcuts":false,"LTI_LAUNCH_FRAME_ALLOWANCES":["geolocation *","microphone *","camera *","midi *","encrypted-media *","autoplay *","clipboard-write *","display-capture *"],"DEEP_LINKING_POST_MESSAGE_ORIGIN":"https://fergflor.instructure.com","DEEP_LINKING_LOGGING":null,"comment_library_suggestions_enabled":false,"SETTINGS":{"open_registration":false,"collapse_global_nav":false,"release_notes_badge_disabled":false},"API_GATEWAY_URI":"https://api.us-west-2.instructure.com/graphql/future","DIRECT_SHARE_ENABLED":true,"FEATURES":{"featured_help_links":true,"rce_buttons_and_icons":false,"important_dates":true,"feature_flag_filters":true,"k5_parent_support":true,"conferencing_in_planner":true,"remember_settings_tab":true,"word_count_in_speed_grader":true,"observer_picker":false,"lti_platform_storage":false,"scale_equation_images":true,"new_equation_editor":false,"responsive_awareness":true,"responsive_misc":true,"product_tours":true,"files_dnd":true,"usage_rights_discussion_topics":true,"granular_permissions_manage_users":true,"create_course_subaccount_picker":true,"lti_deep_linking_module_index_menu_modal":false,"lti_multiple_assignment_deep_linking":false,"embedded_release_notes":true,"canvas_k6_theme":true,"new_math_equation_handling":true},"current_user":{"id":"657","anonymous_id":"i9","display_name":"Harvey Love","avatar_image_url":"https://fergflor.instructure.com/images/thumbnails/210682/OgNEyiFtvaKUMg2ZjRDkJU4kgb7c0b5PZYyEbeJf","html_url":"https://fergflor.instructure.com/about/657","pronouns":null,"avatar_is_fallback":false},"page_view_update_url":"/page_views/2e8847cd-626e-4f89-a3b2-1f11ef4d55fe?page_view_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiMmU4ODQ3Y2QtNjI2ZS00Zjg5LWEzYjItMWYxMWVmNGQ1NWZlIiwidSI6MTY2ODcwMDAwMDAwMDAwNjU3LCJjIjoiMjAyMi0wMi0yMlQxNDo1MzowMi4yOVoifQ.ql0qzTm3V46Ic2-y2DlLsBjlLnXs-qCvx21r5r3vpnw","context_asset_string":"course_17193","ping_url":"https://fergflor.instructure.com/api/v1/courses/17193/ping","TIMEZONE":"America/Chicago","CONTEXT_TIMEZONE":"America/Chicago","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","rce_auto_save_max_age_ms":86400000,"K5_USER":false,"K5_HOMEROOM_COURSE":false,"K5_SUBJECT_COURSE":false,"MANAGE_GRADES":true,"READ_AS_ADMIN":true,"CONTEXT_ACTION_SOURCE":"speed_grader","can_view_audit_trail":false,"settings_url":"/courses/17193/gradebook/speed_grader_settings","force_anonymous_grading":false,"anonymous_identities":{},"instructor_selectable_states":{},"final_grader_id":null,"grading_role":"grader","grading_type":"points","lti_retrieve_url":"https://fergflor.instructure.com/courses/17193/external_tools/retrieve?assignment_id=539524\u0026display=borderless","course_id":"17193","assignment_id":"539524","assignment_title":"Caret Guided Practice","rubric":null,"nonScoringRubrics":true,"outcome_extra_credit_enabled":true,"outcome_proficiency":null,"group_comments_per_attempt":false,"can_comment_on_submission":true,"show_help_menu_item":true,"help_url":"https://community.canvaslms.com/t5/Instructor-Guide/tkb-p/Instructor#SpeedGrader","update_submission_grade_url":"/courses/17193/gradebook/update_submission","can_delete_attachments":false,"media_comment_asset_string":"user_657","late_policy":{"course_id":"17193","id":"1933","missing_submission_deduction_enabled":false,"missing_submission_deduction":0.0,"late_submission_deduction_enabled":false,"late_submission_deduction":15.0,"late_submission_interval":"day","late_submission_minimum_percent_enabled":false,"late_submission_minimum_percent":0.0,"created_at":"2022-01-10T15:52:56-06:00","updated_at":"2022-01-10T15:52:56-06:00","root_account_id":"1"},"speedgrader_dialog_for_unposted_comments":true,"selected_section_id":null,"filter_speed_grader_by_student_group_feature_enabled":true,"assignment_comment_library_feature_enabled":true,"RUBRIC_ASSESSMENT":{"assessor_id":"657","assessment_type":"grading"},"badge_counts":{"submissions":0},"notices":[],"active_context_tab":"grades"};
+    BRANDABLE_CSS_HANDLEBARS_INDEX = [["new_styles_normal_contrast","new_styles_high_contrast","responsive_layout_normal_contrast","responsive_layout_high_contrast","new_styles_normal_contrast_rtl","new_styles_high_contrast_rtl","responsive_layout_normal_contrast_rtl","responsive_layout_high_contrast_rtl"],{"10":["8300658022",0,0,0,"250b5824c2",4,4,4],"15":["fc26aa5fd4",0,0,0,"f904416063",4,4,4],"19":["df5777ed9c"],"61":["c34731ada0","f405852bb2",0,1,"a4eda69452","3fd9943b9a",4,5],"64":["6d90a3d213",0,0,0,"cace9d4281",4,4,4],"67":["8b57f54e71",0,0,0,"43833dde85",4,4,4],"71":["9bb12d406b","3128a2cc3b",0,1,"9a2e3a11ca","851e44943d",4,5],"06":["4526e0502d",0,0,0,"4ca4dedba8",4,4,4],"f0":["7c947dce20",0,0,0,0,0,0,0],"c8":["fd6747df94","32c26c8fa4",0,1,"80cc70eb8a","c6f0afaa9e",4,5],"1e":["a4ce6b99b5","39d2986ce0","93968ae330","541e45feba","e12dd92511","ba63dd3b58","8594db4d82","e291bb53e9"],"b3":["8ebc71ebc3","cf8efa05c8",0,1,"4efdc93a21","fd6d3a9780",4,5],"4f":["0a2c3dcf2f",0,0,0,"79668e6396",4,4,4],"0c":["c26e82abac",0,0,0,"b71e9cbd6d",4,4,4],"da":["b218c8c3f2","edbd1b5e83",0,1,"312312508c","dfb2d13098",4,5],"1d":["a3bfcb7961",0,0,0,"90682b3bbe",4,4,4],"08":["64bff5a97d"],"e2":["11429f119a"],"9f":["35936a18c3",0,0,0,0,0,0,0],"2b":["abf63f48ef","bf8e135ffe",0,1,"378e0c136b","9833e305e6",4,5],"2c":["6d919206cd",0,0,0,0,0,0,0],"c2":["6f2721ae01"],"9c":["ecafc938e4",0,0,0,"59e7c22304",4,4,4],"c5":["ebf0e1382f","7f587d9a8a",0,1,"afbdabf23d","0d398196a8",4,5],"f2":["51574f9b13"]}]
+;
+  </script>
+
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-58ab49a303.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+
+      ;["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js", "https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js", "https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-58ab49a303.js"].forEach(function(src) {
+        var s = document.createElement('script')
+        s.src = src
+        s.async = false
+        document.head.appendChild(s)
+      });
+//]]>
+</script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-7dd4b80918af0e0218ec0229e4bd5873.js"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-72c98a0d42.js"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-58ab49a303.js"></script><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/0-c-d122efd52f.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/1-c-ec86224602.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/2-c-76bc2d045a.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3-c-db365dc360.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4-c-b8cf79bbb5.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/5-c-91ec3d99dd.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/6-c-b7e24ed230.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/8-c-1e27fb0fe8.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/7-c-e2b61ba201.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/9-c-a923466f4c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/10-c-3120ad609e.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/11-c-ad0757b200.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/12-c-8e44d6013e.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/13-c-ec830eb1c2.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/15-c-48b50c2e92.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/17-c-9779ced567.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/16-c-cfd5cddc45.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/18-c-110de1a131.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/23-c-2ae6d2fb18.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/31-c-6edd156993.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/34-c-bce698a3ad.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/36-c-95e75471f3.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/47-c-4d0c96f197.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/49-c-9bea314320.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/52-c-f5aab9cb09.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/61-c-de1048959f.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/101-c-94c77fda8d.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/97-c-e02809a62a.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/109-c-97057db87c.js" as="script" type="text/javascript"><link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/speed_grader-c-d2914bb727.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('speed_grader');
+//]]>
+</script>
+  <title>Caret Guided Practice, SpeedGrader, WEB DESIGN I-PP5-Love</title>
+  
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', "UA-9138420-1", 'auto');
+      ga('set', 'userId', "84f1cf0d64955906278d09004fc675f4");
+    ga('set', 'dimension1', "110");
+    ga('set', 'dimension2', "00");
+    ga('set', 'dimension3', "0");
+    ga('set', 'dimension4', "K12");
+    ga('send', 'pageview');
+    (window.requestIdleCallback || window.setTimeout)(function(){
+      var s=document.createElement('script'), m=document.getElementsByTagName('script')[0]
+      s.async=1; s.src='https://www.google-analytics.com/analytics.js'
+      m.parentNode.insertBefore(s,m)
+    });
+  </script>
+
+
+
+<style type="text/css"></style><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/0-c-d122efd52f.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/1-c-ec86224602.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/2-c-76bc2d045a.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3-c-db365dc360.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4-c-b8cf79bbb5.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/5-c-91ec3d99dd.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/6-c-b7e24ed230.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/8-c-1e27fb0fe8.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/7-c-e2b61ba201.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/9-c-a923466f4c.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/10-c-3120ad609e.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/11-c-ad0757b200.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/12-c-8e44d6013e.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/13-c-ec830eb1c2.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/15-c-48b50c2e92.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/17-c-9779ced567.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/16-c-cfd5cddc45.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/18-c-110de1a131.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/23-c-2ae6d2fb18.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/31-c-6edd156993.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/34-c-bce698a3ad.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/36-c-95e75471f3.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/47-c-4d0c96f197.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/49-c-9bea314320.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/52-c-f5aab9cb09.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/61-c-de1048959f.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/101-c-94c77fda8d.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/97-c-e02809a62a.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/109-c-97057db87c.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/speed_grader-c-d2914bb727.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4191-c-7c1c43083f.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4107-c-f720d87121.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/inst_fs_service_worker-c-9be2ac263c.js"></script><style type="text/css">.mejs-offscreen{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);clip-path:polygon(0px 0,0 0,0 0,0 0);position:absolute!important;height:1px;width:1px;overflow:hidden}.mejs-container{position:relative;background:#000;font-family:Helvetica,Arial,serif;text-align:left;vertical-align:top;text-indent:0}.mejs-fill-container,.mejs-fill-container .mejs-container{width:100%;height:100%}.mejs-fill-container{overflow:hidden}.mejs-container:focus{outline:0}.me-plugin{position:absolute}.mejs-embed,.mejs-embed body{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}.mejs-fullscreen{overflow:hidden!important}.mejs-container-fullscreen{position:fixed;left:0;top:0;right:0;bottom:0;overflow:hidden;z-index:1000}.mejs-container-fullscreen .mejs-mediaelement,.mejs-container-fullscreen video{width:100%;height:100%}.mejs-clear{clear:both}.mejs-background{position:absolute;top:0;left:0}.mejs-mediaelement{position:absolute;top:0;left:0;width:100%;height:100%}.mejs-poster{position:absolute;top:0;left:0;background-size:contain;background-position:50% 50%;background-repeat:no-repeat}:root .mejs-poster img{display:none}.mejs-poster img{border:0;padding:0}.mejs-overlay{position:absolute;top:0;left:0}.mejs-overlay-play{cursor:pointer}.mejs-overlay-button{position:absolute;top:50%;left:50%;width:100px;height:100px;margin:-50px 0 0 -50px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/746c3af7a145a09239a36e5ef61cfea0.svg) no-repeat}.no-svg .mejs-overlay-button{background-image:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/716436fb3df0d29e6b37dd62d952676a.png)}.mejs-overlay:hover .mejs-overlay-button{background-position:0 -100px}.mejs-overlay-loading{position:absolute;top:50%;left:50%;width:80px;height:80px;margin:-40px 0 0 -40px;background:#333;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(0,0,0,.9);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.9)),to(rgba(0,0,0,.9)));background:-webkit-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-moz-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-o-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-ms-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:linear-gradient(rgba(50,50,50,.9),rgba(0,0,0,.9))}.mejs-overlay-loading span{display:block;width:80px;height:80px;background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/76b326f4d44222126fee21076595bef5.gif) 50% 50% no-repeat}.mejs-container .mejs-controls{position:absolute;list-style-type:none;margin:0;padding:0;bottom:0;left:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));height:30px;width:100%}.mejs-container .mejs-controls div{list-style-type:none;background-image:none;display:block;float:left;margin:0;padding:0;width:26px;height:26px;font-size:11px;line-height:11px;font-family:Helvetica,Arial,serif;border:0}.mejs-controls .mejs-button button{cursor:pointer;display:block;font-size:0;line-height:0;text-decoration:none;margin:7px 5px;padding:0;position:absolute;height:16px;width:16px;border:0;background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/40f56f5a736da4effeb790cedb8a52f0.svg) no-repeat}.no-svg .mejs-controls .mejs-button button{background-image:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/24a0227fbdd3acfd86ff03fc3fc6c8a4.png)}.mejs-controls .mejs-button button:focus{outline:dotted 1px #999}.mejs-container .mejs-controls .mejs-time{color:#fff;display:block;height:17px;width:auto;padding:10px 3px 0;overflow:hidden;text-align:center;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}.mejs-container .mejs-controls .mejs-time a{color:#fff;font-size:11px;line-height:12px;display:block;float:left;margin:1px 2px 0 0;width:auto}.mejs-controls .mejs-play button{background-position:0 0}.mejs-controls .mejs-pause button{background-position:0 -16px}.mejs-controls .mejs-stop button{background-position:-112px 0}.mejs-controls div.mejs-time-rail{direction:ltr;width:200px;padding-top:5px}.mejs-controls .mejs-time-rail span,.mejs-controls .mejs-time-rail a{display:block;position:absolute;width:180px;height:10px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;cursor:pointer}.mejs-controls .mejs-time-rail .mejs-time-total{margin:5px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-time-rail .mejs-time-buffering{width:100%;background-image:-o-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,.15)),color-stop(0.75,rgba(255,255,255,.15)),color-stop(0.75,transparent),to(transparent));background-image:-webkit-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-moz-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-ms-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);-webkit-background-size:15px 15px;-moz-background-size:15px 15px;-o-background-size:15px 15px;background-size:15px 15px;-webkit-animation:buffering-stripes 2s linear infinite;-moz-animation:buffering-stripes 2s linear infinite;-ms-animation:buffering-stripes 2s linear infinite;-o-animation:buffering-stripes 2s linear infinite;animation:buffering-stripes 2s linear infinite}@-webkit-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-moz-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-ms-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-o-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}.mejs-controls .mejs-time-rail .mejs-time-loaded{background:#3caac8;background:rgba(60,170,200,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(44,124,145,.8)),to(rgba(78,183,212,.8)));background:-webkit-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-moz-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-o-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-ms-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:linear-gradient(rgba(44,124,145,.8),rgba(78,183,212,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-current{background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-handle{display:none;position:absolute;margin:0;width:10px;background:#fff;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;cursor:pointer;border:solid 2px #333;top:-2px;text-align:center}.mejs-controls .mejs-time-rail .mejs-time-float{position:absolute;display:none;background:#eee;width:36px;height:17px;border:solid 1px #333;top:-26px;margin-left:-18px;text-align:center;color:#111}.mejs-controls .mejs-time-rail .mejs-time-float-current{margin:2px;width:30px;display:block;text-align:center;left:0}.mejs-controls .mejs-time-rail .mejs-time-float-corner{position:absolute;display:block;width:0;height:0;line-height:0;border:solid 5px #eee;border-color:#eee transparent transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:15px;left:13px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float{width:48px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-current{width:44px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-corner{left:18px}.mejs-controls .mejs-fullscreen-button button{background-position:-32px 0}.mejs-controls .mejs-unfullscreen button{background-position:-32px -16px}.mejs-controls .mejs-volume-button{}.mejs-controls .mejs-mute button{background-position:-16px -16px}.mejs-controls .mejs-unmute button{background-position:-16px 0}.mejs-controls .mejs-volume-button{position:relative}.mejs-controls .mejs-volume-button .mejs-volume-slider{height:115px;width:25px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:-115px;left:0;z-index:1;position:absolute;margin:0}.mejs-controls .mejs-volume-button:hover{-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.5);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.9);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-handle{position:absolute;left:4px;top:-3px;width:16px;height:6px;background:#ddd;background:rgba(255,255,255,.9);cursor:N-resize;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;margin:0}.mejs-controls a.mejs-horizontal-volume-slider{height:26px;width:56px;position:relative;display:block;float:left;vertical-align:middle}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle{display:none}.mejs-controls .mejs-captions-button{position:relative}.mejs-controls .mejs-captions-button button{background-position:-48px 0}.mejs-controls .mejs-captions-button .mejs-captions-selector{position:absolute;bottom:26px;right:-51px;width:85px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px 10px 0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-captions-button .mejs-captions-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li{margin:0 0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li label{width:55px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:10px}.mejs-controls .mejs-captions-button .mejs-captions-translations{font-size:10px;margin:0 0 5px}.mejs-chapters{position:absolute;top:0;left:0;border-right:solid 1px #fff;width:10000px;z-index:1}.mejs-chapters .mejs-chapter{position:absolute;float:left;background:#222;background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#323232, endColorstr=#000000);overflow:hidden;border:0}.mejs-chapters .mejs-chapter .mejs-chapter-block{font-size:11px;color:#fff;padding:5px;display:block;border-right:solid 1px #333;border-bottom:solid 1px #333;cursor:pointer}.mejs-chapters .mejs-chapter .mejs-chapter-block-last{border-right:0}.mejs-chapters .mejs-chapter .mejs-chapter-block:hover{background:#666;background:rgba(102,102,102,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(102,102,102,.7)),to(rgba(50,50,50,.6)));background:-webkit-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-moz-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-o-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-ms-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:linear-gradient(rgba(102,102,102,.7),rgba(50,50,50,.6));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#666666, endColorstr=#323232)}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-title{font-size:12px;font-weight:700;display:block;white-space:nowrap;text-overflow:ellipsis;margin:0 0 3px;line-height:12px}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-timespan{font-size:12px;line-height:12px;margin:3px 0 4px;display:block;white-space:nowrap;text-overflow:ellipsis}.mejs-captions-layer{position:absolute;bottom:0;left:0;text-align:center;line-height:20px;font-size:16px;color:#fff}.mejs-captions-layer a{color:#fff;text-decoration:underline}.mejs-captions-layer[lang=ar]{font-size:20px;font-weight:400}.mejs-captions-position{position:absolute;width:100%;bottom:15px;left:0}.mejs-captions-position-hover{bottom:35px}.mejs-captions-text,.mejs__captions-text *{padding:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(20,20,20,.5);white-space:pre-wrap;-webkit-box-shadow:5px 0 0 rgba(20,20,20,.5),-5px 0 0 rgba(20,20,20,.5);box-shadow:5px 0 0 rgba(20,20,20,.5),-5px 0 0 rgba(20,20,20,.5)}.me-cannotplay{}.me-cannotplay a{color:#fff;font-weight:700}.me-cannotplay span{padding:15px;display:block}.mejs-controls .mejs-loop-off button{background-position:-64px -16px}.mejs-controls .mejs-loop-on button{background-position:-64px 0}.mejs-controls .mejs-backlight-off button{background-position:-80px -16px}.mejs-controls .mejs-backlight-on button{background-position:-80px 0}.mejs-controls .mejs-picturecontrols-button{background-position:-96px 0}.mejs-contextmenu{position:absolute;width:150px;padding:10px;border-radius:4px;top:0;left:0;background:#fff;border:solid 1px #999;z-index:1001}.mejs-contextmenu .mejs-contextmenu-separator{height:1px;font-size:0;margin:5px 6px;background:#333}.mejs-contextmenu .mejs-contextmenu-item{font-family:Helvetica,Arial,serif;font-size:12px;padding:4px 6px;cursor:pointer;color:#333}.mejs-contextmenu .mejs-contextmenu-item:hover{background:#2C7C91;color:#fff}.mejs-controls .mejs-sourcechooser-button{position:relative}.mejs-controls .mejs-sourcechooser-button button{background-position:-128px 0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector{position:absolute;bottom:26px;right:-10px;width:130px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li{margin:0 0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li label{width:100px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:10px}.mejs-postroll-layer{position:absolute;bottom:0;left:0;width:100%;height:100%;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);z-index:1000;overflow:hidden}.mejs-postroll-layer-content{width:100%;height:100%}.mejs-postroll-close{position:absolute;right:0;top:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);color:#fff;padding:4px;z-index:100;cursor:pointer}div.mejs-speed-button{width:46px!important;position:relative}.mejs-controls .mejs-button.mejs-speed-button button{background:transparent;width:36px;font-size:11px;line-height:normal;color:#fff}.mejs-controls .mejs-speed-button .mejs-speed-selector{position:absolute;top:-100px;left:-10px;width:60px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/703c659e4bf563a05c6338a1727e006c.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li label.mejs-speed-selected{color:rgba(33,248,248,1)}.mejs-controls .mejs-speed-button .mejs-speed-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li{margin:0 0 6px;padding:0 10px;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li label{width:60px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:11px;color:#fff;margin-left:5px;cursor:pointer}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li:hover{background-color:#c8c8c8!important;background-color:rgba(255,255,255,.4)!important}.mejs-controls .mejs-button.mejs-jump-forward-button{background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/15e1ac8cbacc2efdf1ac2677de48a253.png) no-repeat 3px 3px}.mejs-controls .mejs-button.mejs-jump-forward-button button{background:transparent;font-size:9px;line-height:normal;color:#fff}.mejs-controls .mejs-button.mejs-skip-back-button{background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/cd6dc830eb45b3a5a96bbc936ff54846.png) no-repeat 3px 3px}.mejs-controls .mejs-button.mejs-skip-back-button button{background:transparent;font-size:9px;line-height:normal;color:#fff}</style><style type="text/css">/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* customizations to mediaelementplayer css */
+
+/*
+  Because this file is not proccessed by our brandable_css sass pipeline,
+  it cannot use our sass-direction helpers. So we have to handle RTL manually
+  by putting direction-specific styles in [dir="ltr"] or [dir="rtl"] blocks.
+*/
+/* stylelint-disable property-disallowed-list, declaration-property-value-disallowed-list */
+
+/* good menu widths */
+.mejs-sourcechooser-selector {
+  width: 160px;
+}
+.mejs-sourcechooser-selector label {
+  width: 160px !important;
+}
+
+.mejs-captions-selector {
+  width: 105px;
+}
+[dir="ltr"]  .mejs-captions-selector { text-align: left }
+[dir="rtl"]  .mejs-captions-selector { text-align: right }
+
+.mejs-captions-selector label {
+  width: 70px !important;
+}
+
+/* Subtitile upload link */
+.mejs-captions-selector .upload-track {
+  color: white;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+[dir="ltr"] .mejs-captions-selector .upload-track {
+  margin-right: 0px;
+  margin-left: 5px;
+  float: left;
+}
+[dir="rtl"] .mejs-captions-selector .upload-track {
+  margin-left: 0px;
+  margin-right: 5px;
+  float: right;
+}
+
+/* "x" button to remove a subtitle */
+.mejs-captions-selector a[data-remove] {
+  position: absolute;
+  top: 0;
+  color: white;
+}
+[dir="ltr"] .mejs-captions-selector a[data-remove] { right: 0 }
+[dir="rtl"] .mejs-captions-selector a[data-remove] { left: 0 }
+
+
+/* style menu items without a radio button */
+.mejs-button [role="menu"] {
+  padding: 0 !important;
+}
+ /* compensate for above 0 padding */
+ .mejs-button [role="menu"] ul li {
+  position: relative;
+  padding: 0 10px !important;
+}
+/* add a hover effect */
+.mejs-button [role="menu"] ul li:hover {
+  background-color: #c8c8c8 !important;
+  background-color: rgba(255, 255, 255, 0.4) !important;
+}
+.mejs-button [role="menu"] ul li input {
+  border: 0;
+  clip: rect(0 0 0 0);
+  position: absolute;
+  overflow: hidden;
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+}
+.mejs-button [role="menu"] ul li label {
+  cursor: pointer;
+}
+[dir="ltr"] .mejs-button [role="menu"] ul li label { margin-left: 5px }
+[dir="rtl"] .mejs-button [role="menu"] ul li label { margin-right: 5px }
+
+
+.mejs-button [role="menu"] label.mejs-selected {
+  color: #21f8f8 !important;
+}
+
+/* stylelint-enable property-disallowed-list, declaration-property-value-disallowed-list */
+</style><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3637-c-cd3000d750.js"></script><style type="text/css" data-glamor=""></style><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/24-c-3cdec0f4f7.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/33-c-f857537fc0.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/37-c-676b6bb88c.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/81-c-34a63b677b.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/93-c-d3e3d2ada6.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3630-c-ce93fa57fe.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4189-c-566833630f.js"></script><script charset="utf-8" src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/4192-c-77097e369e.js"></script></head>
+
+<body class="ic-no-flex-layout full-width no-headers grades primary-nav-expanded full-width context-course_17193 responsive_awareness responsive_misc responsive_student_grades_page webkit chrome no-touch">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder" role="alert" aria-live="assertive" aria-relevant="additions" class="screenreader-only" aria-atomic="false"></div>
+
+<div id="application" class="ic-app">
+  
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+
+        <div class="ic-app-crumbs">
+            <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs" style=""><ul><li class="home"><a href="/"><span class="ellipsible"><i class="icon-home" title="My Dashboard">
+  <span class="screenreader-only">My Dashboard</span>
+</i>
+</span></a></li><li><a href="/courses/17193"><span class="ellipsible">WEB DESIGN I-PP5-Love</span></a></li><li><a href="/courses/17193/grades"><span class="ellipsible">Grades</span></a></li></ul></nav>
+        </div>
+
+
+        <div class="right-of-crumbs">
+            <div class="TutorialToggleHolder"></div>
+        </div>
+
+      </div>
+    <div id="main" class="ic-Layout-columns">
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+          
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+<div id="speed_grader_timeout_alert"></div>
+<h4 id="speed_grader_loading" style="display: none;">
+  loading...
+</h4>
+<h1 class="screenreader-only">SpeedGrader</h1>
+<div id="gradebook_header_container">
+  <form action="/courses/17193/gradebook/update_submission" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="jBj0dlJSM3qPhkfjc/p8boq1SXPqC7weiAtwN82fIVj2brYECjpbPP3zLdI5nCwmuuA+OKdq9F3nZQVmuM1AKw==">
+  <div id="gradebook_header" class="subheadContent" style="">
+    <div class="subheadContent subheadContent--flex-start">
+      <div id="speedgrader-icons" class="gradebookActions">
+        <a href="https://fergflor.instructure.com/courses/17193/gradebook" id="speed_grader_gradebook_link" class="Button Button--icon-action gradebookActions__Button gradebook-icon-link" title="Gradebook">
+          <i class="icon-gradebook" aria-hidden="true"></i>
+          <span class="screenreader-only" aria-hidden="true">Gradebook</span>
+        </a>
+
+        <span id="speed_grader_post_grades_menu_mount_point"><span data-position="uZUOeGPTK7kj"><button title="Post or Hide Grades" aria-haspopup="true" id="up3ffTxbVG7n" aria-expanded="false" data-popover-trigger="true" data-position-target="uZUOeGPTK7kj" type="button" tabindex="0" cursor="pointer" class="fOyUs_bGBk eHiXd_bGBk eHiXd_dnnz eHiXd_ycrn eHiXd_bPzo eHiXd_cuTS eHiXd_wWyq" style="margin: 0px; cursor: pointer;"><span class="eHiXd_caGd"><span class="eHiXd_eoCh"><svg name="IconEye" viewBox="0 0 1920 1920" rotate="0" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="dUOHu_bGBk dUOHu_drOs dUOHu_eXrk cGqzL_bGBk speedgrader-postgradesmenu-icon" style="width: 1em; height: 1em;"><g role="presentation"><path d="M960,1489.82027 C611.525723,1489.82027 291.455067,1287.49746 118.7017,959.901965 C291.455067,632.306469 611.525723,429.983661 960,429.983661 C1308.47428,429.983661 1628.54493,632.306469 1801.2983,959.901965 C1628.54493,1287.49746 1308.47428,1489.82027 960,1489.82027 L960,1489.82027 Z M1908.3418,936.267609 C1720.64473,558.647825 1357.33274,324 960,324 C562.667255,324 199.355266,558.647825 11.6582027,936.267609 L0,959.901965 L11.6582027,983.536321 C199.355266,1361.15611 562.667255,1595.80393 960,1595.80393 C1357.33274,1595.80393 1720.64473,1361.15611 1908.3418,983.536321 L1920,959.901965 L1908.3418,936.267609 Z M960,1171.86929 C843.100022,1171.86929 748.032678,1076.80194 748.032678,959.901965 C748.032678,843.001987 843.100022,747.934643 960,747.934643 C1076.89998,747.934643 1171.96732,843.001987 1171.96732,959.901965 C1171.96732,1076.80194 1076.89998,1171.86929 960,1171.86929 M960,641.950983 C784.703025,641.950983 642.049017,784.60499 642.049017,959.901965 C642.049017,1135.19894 784.703025,1277.85295 960,1277.85295 C1135.29698,1277.85295 1277.95098,1135.19894 1277.95098,959.901965 C1277.95098,784.60499 1135.29698,641.950983 960,641.950983" fill-rule="evenodd" stroke="none" stroke-width="1"></path></g></svg></span></span></button></span></span>
+        <span id="speed_grader_settings_mount_point"><span data-position="uZkU7ZmfUbsj"><button type="button" class="Button Button--icon-action gradebookActions__Button" title="Settings" aria-haspopup="true" id="ujjK2kafaDs3" aria-expanded="false" data-popover-trigger="true" data-position-target="uZkU7ZmfUbsj"><i class="icon-settings" aria-hidden="true"></i><span class="screenreader-only" aria-hidden="true">SpeedGrader Settings</span></button></span></span>
+      </div>
+      <div class="assignmentDetails">
+        <a id="assignment_url" href="/courses/17193/assignments/539524">
+          <h2 class="assignmentDetails__Title">Caret Guided Practice</h2>
+        </a>
+        <p class="assignmentDetails__Info">
+          <span>Due: Jan 27 at 11:59pm</span>
+          - <a id="context_title" href="/courses/17193">WEB DESIGN I-PP5-Love</a>
+        </p>
+      </div>
+    </div>
+    <div class="subheadContent subheadContent--flex-end">
+      <div class="statsMetric">
+        <div class="statsMetric__Item">
+          <div class="statsMetric__Item-value" id="x_of_x_graded">15/20</div>
+          <div class="statsMetric__Item-label">Graded</div>
+        </div>
+        <div id="average-score-wrapper" class="statsMetric__Item" tabindex="0">
+          <div class="statsMetric__Item-value" id="average_score">12.27 / 15 (82%)</div>
+          <div class="statsMetric__Item-label">Average</div>
+        </div>
+        <div class="statsMetric__Item">
+          <div class="statsMetric__Item-value" id="x_of_x_students_frd">17/20</div>
+          <div class="statsMetric__Item-label" id="gradee"></div>
+        </div>
+      </div>
+      <div class="studentSelection">
+        <button id="prev-student-button" class="Button Button--icon-action gradebookMoveToNext prev" type="button" aria-label="Previous">
+          <i class="icon-arrow-left prev" aria-hidden="true"></i>
+        </button>
+           <div id="avatar" class="gradebookAvatar">
+            <img src="/images/users/6836-9c148bc9b3" id="avatar_image" alt="" style="display: inline;">
+          </div>
+        <div id="combo_box_container"><label class="screenreader-only" for="students_selectmenu">Select a student</label><select id="students_selectmenu" class="screenreader-only" tabindex="0" style="display: inline-block;">
+        <option value="9426" class="graded ui-selectmenu-hasIcon">
+          Seniya Adams – graded
+        </option>
+      
+        <option value="9899" class="graded ui-selectmenu-hasIcon">
+          La'Maria Harris – graded
+        </option>
+      
+        <option value="6117" class="resubmitted ui-selectmenu-hasIcon">
+          Anijah Heard – graded, then resubmitted (Feb 3 at 12:30pm)
+        </option>
+      
+        <option value="6434" class="graded ui-selectmenu-hasIcon">
+          Keian Hill – graded
+        </option>
+      
+        <option value="20225" class="graded ui-selectmenu-hasIcon">
+          Ja'Mar Hubbard – graded
+        </option>
+      
+        <option value="6556" class="graded ui-selectmenu-hasIcon">
+          Tristin Ivy – graded
+        </option>
+      
+        <option value="6287" class="graded ui-selectmenu-hasIcon">
+          Jordan Johnson – graded
+        </option>
+      
+        <option value="9197" class="graded ui-selectmenu-hasIcon">
+          Jayvia Lee – graded
+        </option>
+      
+        <option value="5974" class="not_submitted ui-selectmenu-hasIcon">
+          Addison Loveless – not submitted
+        </option>
+      
+        <option value="3699" class="graded ui-selectmenu-hasIcon">
+          Lamar Mc coy – graded
+        </option>
+      
+        <option value="6271" class="graded ui-selectmenu-hasIcon">
+          Tariq Mcclendon-Barber – graded
+        </option>
+      
+        <option value="5919" class="graded ui-selectmenu-hasIcon">
+          Nyla Rayford – graded
+        </option>
+      
+        <option value="6049" class="graded ui-selectmenu-hasIcon">
+          Mi'Kye Smith – graded
+        </option>
+      
+        <option value="2353" class="graded ui-selectmenu-hasIcon">
+          Selena Smith – graded
+        </option>
+      
+        <option value="6860" class="not_submitted ui-selectmenu-hasIcon">
+          Joshua Triplett – not submitted
+        </option>
+      
+        <option value="5873" class="not_submitted ui-selectmenu-hasIcon">
+          Jordan Webster – not submitted
+        </option>
+      
+        <option value="6836" class="graded ui-selectmenu-hasIcon">
+          Keatin Werleman – graded
+        </option>
+      
+        <option value="6069" class="graded ui-selectmenu-hasIcon">
+          La'Tahvia Williams – graded
+        </option>
+      
+        <option value="6129" class="graded ui-selectmenu-hasIcon">
+          Tionne Woolfolk – graded
+        </option>
+      
+        <option value="30269" class="not_submitted ui-selectmenu-hasIcon">
+          Test Student – not submitted
+        </option>
+      </select><span><a class="ui-selectmenu ui-widget ui-state-default ui-corner-all ui-selectmenu-dropdown graded ui-selectmenu-hasIcon" id="students_selectmenu-button" href="#nogo" tabindex="-1" aria-hidden="true" style="width: 230px; margin: 0px;"><span class="ui-selectmenu-status">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Keatin Werleman
+        </span>
+    </span><span class="ui-selectmenu-icon ui-icon-triangle-1-s"><i class="icon-mini-arrow-down"></i></span></a></span></div>
+        <button id="next-student-button" class="Button Button--icon-action gradebookMoveToNext next" type="button" aria-label="Next">
+          <i class="icon-arrow-right next" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </div></form>
+</div>
+<div id="enrollment_inactive_notice" class="alert alert-info" style="display: none;">
+  <span>Notice: Inactive Student</span>
+</div>
+<div id="enrollment_concluded_notice" class="alert alert-info" style="display: none;">
+  <span>Notice: Concluded Student</span>
+</div>
+<div id="closed_gp_notice" class="alert alert-info" style="display:none">
+  <span>Notice: The grading period is closed for this student</span>
+</div>
+<div id="full_width_container" style="">
+  <div id="left_side" class="full_height">
+    <div id="left_side_inner">
+      <div id="no_annotation_warning" class="alert speedgrader_alert" style="display: none;">
+        <a class="dismiss_alert close" href="#">×</a>
+        Annotations are not available for this document
+      </div>
+      <div id="crocodoc_pending" class="alert speedgrader_alert" style="display: none;">
+        <a class="dismiss_alert close" href="#">×</a>
+        Crocodoc is still processing this document.
+      </div>
+      <div id="comment_saved" class="alert alert-success speedgrader_alert" style="display: none;">
+        <button aria-label="Close" class="dismiss_alert close">×</button>
+        <div id="comment_saved_message">
+          Your comment was auto-saved as a draft.
+        </div>
+      </div>
+      <div id="comment_submitted" class="alert alert-success speedgrader_alert" style="display: none;">
+        <button aria-label="Close" class="dismiss_alert close">×</button>
+        <div id="comment_submitted_message">
+          Your comment has been submitted.
+        </div>
+      </div>
+      <div id="reassignment_complete" class="alert alert-success speedgrader_alert" style="display: none;">
+        <button aria-label="Close" class="dismiss_alert close">×</button>
+        <div id="reassignment_complete_message">
+          The assignment has been reassigned.
+        </div>
+      </div>
+      <div id="submissions_container">
+        <div id="this_student_does_not_have_a_submission" style="display: none;">
+          <h3>
+              This student does not have a submission for this assignment
+          </h3>
+        </div>
+        <div id="this_student_has_a_submission" style="display: none;">
+          <h3>
+            This student has submitted the assignment
+            <span class="subheader">This student's responses are hidden because this assignment is anonymous.</span>
+          </h3>
+        </div>
+        <div id="iframe_holder" style="display: block;"><iframe id="speedgrader_iframe" src="/courses/17193/assignments/539524/submissions/6836?download=3033890&amp;inline=1" frameborder="0" allowfullscreen="true" class="attachment-html-iframe"></iframe></div>
+        <div id="resize_overlay" style="display:none;"></div>
+      </div>
+    </div>
+  </div>
+  <div id="right_side" class="full_height">
+    <div id="not_gradeable_message" style="display: none;">This submission has already been graded and is ready for moderation.</div>
+    <div class="full_height ui-draggable" id="width_resizer"></div>
+    <div class="right_side_content">
+      <div id="rightside_inner" class="full_height">
+        <div class="secondary_mount_point_container">
+            <div id="speed_grader_edit_status_secondary_mount_point"></div>
+        </div>
+        <div id="submission_details" class="content_box">
+          <div style="display: flex;">
+            <div id="multiple_submissions" style="display:flex; flex: 1">
+  
+    
+      <label>Submitted:</label> Jan 27 at 8:38am
+    
+    
+      
+        
+      
+    
+  
+
+
+
+</div>
+              <div id="speed_grader_edit_status_mount_point"><span direction="row" wrap="no-wrap" class="fOyUs_bGBk fOyUs_desw bDzpk_bGBk bDzpk_crdn bDzpk_fZWR bDzpk_qOas"><span class="fOyUs_bGBk dJCgj_bGBk"><span data-position="uZTCzmxfmsTn"><button aria-haspopup="true" id="uamuxsfVpeen" aria-expanded="false" data-popover-trigger="true" data-position-target="uZTCzmxfmsTn" cursor="pointer" type="button" tabindex="0" class="fOyUs_bGBk fOyUs_fKyb fOyUs_cuDs fOyUs_cBHs fOyUs_eWbJ fOyUs_fmDy fOyUs_eeJl fOyUs_cBtr fOyUs_fuTR fOyUs_cnfU fQfxa_bGBk" style="margin: 0px 0px 0.75rem; padding: 0px; border-radius: 0.25rem; border-width: 0px; width: auto; cursor: pointer;"><span class="fQfxa_caGd fQfxa_VCXp fQfxa_buuG fQfxa_EMjX undefined fQfxa_dqAF fQfxa_bIHL"><span direction="row" wrap="no-wrap" class="fOyUs_bGBk fOyUs_desw bDzpk_bGBk bDzpk_eRIA bDzpk_fZWR bDzpk_qOas" style="width: 100%; height: 100%;"><span class="fOyUs_bGBk dJCgj_bGBk"><span class="fQfxa_eoCh"><svg name="IconEdit" viewBox="0 0 1920 1920" rotate="0" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="dUOHu_bGBk dUOHu_drOs dUOHu_eXrk cGqzL_bGBk cGqzL_owrh" style="width: 1em; height: 1em;"><g role="presentation"><path d="M277.974095,49.0764867 C343.241473,-16.3028415 449.706783,-16.4147924 515.421964,49.0764867 L515.421964,49.0764867 L747.608139,281.262662 L1803.30517,1337.07164 L1919.95801,1920 L1337.02965,1803.34716 L386.902325,853.331783 L466.051615,774.182494 L1267.84399,1575.86292 L1575.82093,1267.88598 L668.45885,360.411952 L281.220672,747.65013 L49.0344961,515.463954 C-16.344832,449.860724 -16.344832,343.395414 49.0344961,278.016086 L49.0344961,278.016086 Z M1654.97022,1347.03527 L1346.99328,1655.01221 L1392.1095,1700.12842 L1777.10866,1777.15065 L1700.08643,1392.15149 L1654.97022,1347.03527 Z M675.355026,596.258922 L1367.65942,1288.56331 L1288.51013,1367.7126 L596.205736,675.408211 L675.355026,596.258922 Z M396.642054,111.880944 C382.312338,111.880944 368.094573,117.254587 357.123385,128.225776 L357.123385,128.225776 L128.183785,357.165375 C106.46531,378.883851 106.46531,414.484238 128.183785,436.314665 L128.183785,436.314665 L281.220672,589.351551 L589.30956,281.262662 L436.272674,128.225776 C425.301486,117.254587 410.97177,111.880944 396.642054,111.880944 Z" fill-rule="evenodd" stroke="none" stroke-width="1"></path></g></svg></span><span class="ergWt_bGBk">Edit status</span></span></span></span></button></span></span></span></div>
+          </div>
+          <div id="submission_not_newest_notice" title="use the dropdown above to change which submission to look at" style="display: none;">Note: This is not the most recent submission</div>
+          <div id="submission_attachment_viewed_at_container">
+
+</div>
+            <div id="submission_word_count"></div>
+          <div id="submission_files_container">
+            <label>Submitted Files: <span class="labelText--not-bold">(click to load)</span>&nbsp;</label>
+            <div id="submission_files_list"><div class="submission-file" style="">
+                <span class="turnitin_score_container"></span>
+                <a class="display_name no-hover" href="/courses/17193/assignments/539524/submissions/6836?download=3033890&amp;inline=1" title="Preview this File">Keatinanimals.html</a>
+                <span id="react_pill_container"></span>
+                <a class="submission-file-delete icon-trash" href="/api/v1/files/3033890?replace=1" style="display:none;">
+                  <span class="screenreader-only">Delete this file</span>
+                </a>
+                <a class="submission-file-download icon-download" href="/courses/17193/assignments/539524/submissions/6836?download=3033890" download="">
+                  <span class="screenreader-only">Download this file</span>
+                </a>
+              </div></div>
+            <div class="turnitin_info_container"></div>
+          </div>
+        </div>
+
+        <div class="content_box">
+
+          <div id="grading">
+            <h2 class="gradebookHeader--rightside">Assessment</h2>
+              <div id="grade_container">
+                
+
+<label class="bold" for="grading-box-extended">
+  <div id="grading-box-points-possible">
+    Grade
+      out of 15
+  </div>
+
+  <div id="speed_grader_hidden_submission_pill_mount_point"></div>
+
+    <input type="text" id="grading-box-extended" maxlength="254">
+
+  <span id="grading-box-selected-grader"></span>
+</label>
+
+<div id="deduction-box" class="hidden">
+  <div class="deduction-box-labels">
+    <div class="error">
+      Late Penalty:
+    </div>
+    <div class="primary">
+      Final Grade:
+    </div>
+  </div>
+  <div class="deduction-box-values">
+    <div id="points-deducted" class="error bold"></div>
+    <div id="final-grade" class="primary bold"></div>
+  </div>
+</div>
+
+                <span class="turnitin_score_container"></span>
+                <a href="#" id="submit_same_score" style="display: none;"><br>Use this same grade for the resubmission</a>
+                <div class="turnitin_info_container"></div>
+              </div>
+
+              <div id="grading_details_mount_point"></div>
+
+
+            <div id="speed_grader_assessment_audit_button_mount_point"></div>
+          </div><!-- end #grading -->
+        </div>
+
+        <div class="content_box">
+          <h2>
+              Assignment Comments
+          </h2>
+          <div id="discussion">
+            <div id="comments"></div>
+          </div>
+
+            <form id="add_a_comment">
+              <div id="speed_grader_comment_textarea_mount_point"><span direction="row-reverse" wrap="no-wrap" class="fOyUs_bGBk fOyUs_desw bDzpk_bGBk bDzpk_busO bDzpk_fZWR bDzpk_sGoV" style="padding: 1.5rem 0px 0.375rem 0.75rem;"><span class="fOyUs_bGBk dJCgj_bGBk"><div class="fOyUs_bGBk fOyUs_desw" style="padding: 0px 0px 0px 0.5rem;"><button data-testid="comment-library-link" type="button" class="fOyUs_bGBk fOyUs_cuDs fbyHH_bGBk fbyHH_ddMx fbyHH_bSMN"><span class="fbyHH_dnnz"><span data-position="uj6pKUCp3mak"><svg aria-describedby="ufpGZ3nZnz2b" data-popover-trigger="true" data-position-target="uj6pKUCp3mak" name="IconComment" viewBox="0 0 1920 1920" rotate="0" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="dUOHu_bGBk dUOHu_drOs dUOHu_eXrk cGqzL_bGBk" style="width: 1em; height: 1em;"><g role="presentation"><path d="M1662.17776,0 L1662.17776,1359.96362 L1013.47511,1359.96362 L453.321206,1920.11752 L453.321206,1359.96362 L0,1359.96362 L0,0 L1662.17776,0 Z M1511.07069,151.107069 L151.107069,151.107069 L151.107069,1208.85655 L604.428275,1208.85655 L604.428275,1555.34506 L950.916784,1208.85655 L1511.07069,1208.85655 L1511.07069,151.107069 Z M906.79352,755.550454 L906.79352,873.079027 L453.321206,873.079027 L453.321206,755.550454 L906.79352,755.550454 Z M1208.85655,453.18521 L1208.85655,570.713782 L453.321206,570.713782 L453.321206,453.18521 L1208.85655,453.18521 Z" fill-rule="evenodd" stroke="none" stroke-width="1"></path></g></svg></span></span><span class="ergWt_bGBk">Open Comment Library</span><span data-testid="comment-library-count" aria-hidden="true">0</span></button></div></span></span><label for="speed_grader_comment_textarea" class="cWmNi_bGBk"><span class="cMIPy_bGBk"><span class="fxIji_bGBk fxIji_DpxJ fxIji_bWOh fxIji_oUBk fxIji_buDT fxIji_bBOa"><span class="ergWt_bGBk">Add a Comment</span><span class="bNerA_bGBk bNerA_oUBk bNerA_qfdC bNerA_bBOa bNerA_buDT bNerA_DpxJ bNerA_eFno"><div class="chpSa_byIz" style="min-height: 4rem;"><textarea placeholder="Add a Comment" id="speed_grader_comment_textarea" aria-required="false" class="chpSa_blLZ chpSa_ycrn" style="resize: vertical; height: 4rem; overflow-y: hidden;"></textarea><span class="chpSa_cPAP" aria-hidden="true"></span></div></span></span></span></label><div id="library-suggestions"></div></div>
+              <div id="media_media_recording" style="display: none;">
+                <div class="media_recording"></div>
+              </div>
+
+              <div id="comment_attachments"></div>
+              
+              <div class="ic-Action-header">
+                <div class="ic-Action-header__Primary attach_things" role="group">
+                  <button class="Button Button--small" id="add_attachment" title="File Attachment" type="button">
+                    <i class="icon-paperclip" aria-hidden="true"></i>
+                    <span class="screenreader-only">
+                      File Attachment
+                    </span>
+                  </button>
+                    <button id="media_comment_button" class="Button Button--small media_comment_link" title="Media Comment " type="button">
+                      <i class="icon-media" aria-hidden="true"></i>
+                      <span class="screenreader-only">
+                        Media Comment
+                      </span>
+                    </button>
+                  <div class="speech-recognition" style="">
+                    <a id="speech_recognition_button" title="Speech Recognition" href="#" class="Button Button--small speech_recognition_link">
+                      <i class="icon-audio"></i>
+                      <span class="screenreader-only">
+                        Speech Recognition
+                      </span>
+                    </a>
+                  </div>
+                </div>
+                <div class="ic-Action-header__Secondary">
+                  <button id="comment_submit_button" class="Button Button--primary" type="submit">Submit</button>
+                </div>
+              </div>
+            </form>
+
+              <div id="reassign_assignment_wrapper" title="Student feedback required in comments above to reassign.">
+                <button id="reassign_assignment" disabled="disabled" class="Button">Reassign Assignment</button>
+              </div>
+
+          <div id="speed_grader_submission_comments_download_mount_point"><a href="/submissions/10663860/comments.pdf" target="_blank">Download Submission Comments</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <a style="display:none;" id="assignment_submission_turnitin_report_url" href="/courses/17193/assignments/539524/submissions/%7B%7B%20user_id%20%7D%7D/turnitin/%7B%7B%20asset_string%20%7D%7D"></a>
+  <a style="display:none;" id="assignment_submission_originality_report_url" href="/courses/17193/assignments/539524/submissions/%7B%7B%20user_id%20%7D%7D/originality_report/%7B%7B%20asset_string%20%7D%7D"></a>
+  <a style="display:none;" id="assignment_submission_resubmit_to_turnitin_url" href="/courses/17193/assignments/539524/submissions/%7B%7B%20user_id%20%7D%7D/turnitin/resubmit"></a>
+  <a style="display:none;" id="assignment_submission_vericite_report_url" href="/courses/17193/assignments/539524/submissions/%7B%7B%20user_id%20%7D%7D/vericite/%7B%7B%20asset_string%20%7D%7D"></a>
+  <a style="display:none;" id="assignment_submission_resubmit_to_vericite_url" href="/courses/17193/assignments/539524/submissions/%7B%7B%20user_id%20%7D%7D/vericite/resubmit"></a>
+
+
+
+<ul id="section-menu" class="ui-selectmenu-menu ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-selectmenu-open" style="display:none;" role="listbox" aria-activedescendant="section-menu-link">
+  <li role="presentation" class="ui-selectmenu-item">
+    <a href="#" tabindex="-1" role="option" aria-selected="true" id="section-menu-link">
+      <span>Showing: <span id="section_currently_showing">All Sections</span></span>
+    </a>
+    <ul>
+      <li><a class="selected" data-section-id="all" href="#">Show All Sections</a></li>
+    </ul>
+  </li>
+</ul>
+
+<div id="speed_grader_assessment_audit_tray_mount_point"></div>
+<div id="hide-assignment-grades-tray"></div>
+<div id="post-assignment-grades-tray"></div>
+
+<span id="aria_name_alert" class="screenreader-only" aria-live="polite">Keatin Werleman - graded</span>
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+            
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div id="keyboard_navigation">
+      <ul class="navigation_list" tabindex="-1">
+  <li>
+    <span class="keycode">j</span>
+    <span class="colon">:</span>
+    <span class="description">Next Student</span>
+  </li>
+  <li>
+    <span class="keycode">k</span>
+    <span class="colon">:</span>
+    <span class="description">Previous Student</span>
+  </li>
+  <li>
+    <span class="keycode">c</span>
+    <span class="colon">:</span>
+    <span class="description">Leave Comment</span>
+  </li>
+  <li>
+    <span class="keycode">g</span>
+    <span class="colon">:</span>
+    <span class="description">Change Grade</span>
+  </li>
+  <li>
+    <span class="keycode">r</span>
+    <span class="colon">:</span>
+    <span class="description">Use Rubric</span>
+  </li>
+</ul>
+      <div class="hidden-readable" tabindex="0">
+        Press comma to close this dialog
+      </div>
+    </div>
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+        <div id="page_view_id">2e8847cd-626e-4f89-a3b2-1f11ef4d55fe</div>
+    </div>
+  <div id="aria_alerts" class="hide-text affix" role="alert" aria-live="assertive"></div>
+  <div id="StudentTray__Container"></div>
+    <div class="NewUserTutorialTray__Container"></div>
+  
+
+  <script>
+    Object.assign(
+      ENV,
+      {}
+    )
+  </script>
+
+<link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/inst_fs_service_worker-c-9be2ac263c.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('inst_fs_service_worker');
+//]]>
+</script>
+  
+
+</div> <!-- #application -->
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-dialog-buttons" tabindex="-1" style="display: none; outline: 0px; z-index: 1000; height: auto; width: 400px;"><div class="ui-dialog-focus-bumper ui-dialog-focus-bumper-top" tabindex="0"></div><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title" role="heading" aria-level="2">SpeedGrader Options</span><button class="ui-dialog-titlebar-close ui-corner-all"><span class="ui-icon ui-icon-closethick">close</span></button></div><form id="settings_form" style="width: auto; min-height: 0px; height: auto;" class="ui-dialog-content ui-widget-content" tabindex="0">
+  <p>
+    <label for="eg_sort_by">Sort student list</label>
+    <select name="eg_sort_by" id="eg_sort_by"><option value="alphabetically">by student name (alphabetically)</option>
+<option value="submitted_at">the date they submitted the assignment</option>
+<option value="submission_status">by submission status (needs grading, not submitted, etc)</option></select>
+  </p>
+
+    <p>
+      <input type="checkbox" id="hide_student_names" name="hide_student_names">
+      <label for="hide_student_names">
+        Hide student names in the SpeedGrader
+      </label>
+    </p>
+
+  <p class="hidden">
+    <input type="checkbox" name="enable_speedgrader_grade_by_question" id="enable_speedgrader_grade_by_question" value="1">
+    <label for="enable_speedgrader_grade_by_question">Grade by question (beta)</label>
+  </p>
+
+  <div class="button-container" style="display: none;">
+    <button class="btn dialog_closer">Cancel</button>
+    <button type="submit" class="btn btn-primary submit_button" style="display: none;">Save Settings</button>
+  </div>
+</form><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="btn dialog_closer button_type_submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button><button type="button" class="btn btn-primary submit_button button_type_submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Save Settings</span></button></div></div><div class="ui-dialog-focus-bumper ui-dialog-focus-bumper-bottom" tabindex="0"></div></div><span dir="ltr"><span data-position-content="uj6pKUCp3mak" class="fOyUs_bGBk fOyUs_cuDs fOyUs_fQrx dqmEK_ftAV dqmEK_bFHc" style="border-width: 0px; top: 0px; left: -9999em; position: absolute; overflow: hidden; pointer-events: none; display: none;"><span class="fOyUs_bGBk fOyUs_dnJm fOyUs_dzKA fOyUs_EMjX fOyUs_elGp fOyUs_UeJS dqmEK_caGd" style="border-radius: 0.25rem; border-width: 0.0625rem; width: auto; height: auto;"><span class="dqmEK_fAVq dqmEK_ejeM undefined"></span><span id="ufpGZ3nZnz2b" class="eZLSb_bGBk" role="tooltip">Comment Library (Suggestions Disabled)</span></span></span></span><div class="ui-selectmenu-menu" style="z-index: 101; top: 34px; left: 1002px;"><ul class="ui-widget ui-widget-content ui-selectmenu-menu-dropdown ui-corner-bottom" aria-hidden="true" role="listbox" aria-labelledby="students_selectmenu-button" id="students_selectmenu-menu" aria-disabled="false" aria-activedescendant="ui-selectmenu-item-924" style="width: 230px; height: 293.667px;"><li role="presentation" class="graded ui-selectmenu-hasIcon ui-selectmenu-item-focus"><a href="#nogo" tabindex="-1" role="option" aria-selected="false" id="">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Seniya Adams
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          La'Maria Harris
+        </span>
+    </a></li><li role="presentation" class="resubmitted ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon">●</span>
+        <span class="ui-selectmenu-item-header">
+          Anijah Heard
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Keian Hill
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Ja'Mar Hubbard
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Tristin Ivy
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Jordan Johnson
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Jayvia Lee
+        </span>
+    </a></li><li role="presentation" class="not_submitted ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"></span>
+        <span class="ui-selectmenu-item-header">
+          Addison Loveless
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Lamar Mc coy
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Tariq Mcclendon-Barber
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Nyla Rayford
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Mi'Kye Smith
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Selena Smith
+        </span>
+    </a></li><li role="presentation" class="not_submitted ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"></span>
+        <span class="ui-selectmenu-item-header">
+          Joshua Triplett
+        </span>
+    </a></li><li role="presentation" class="not_submitted ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"></span>
+        <span class="ui-selectmenu-item-header">
+          Jordan Webster
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon ui-selectmenu-item-selected"><a href="#nogo" tabindex="-1" role="option" aria-selected="true" id="ui-selectmenu-item-924">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Keatin Werleman
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false" id="">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          La'Tahvia Williams
+        </span>
+    </a></li><li role="presentation" class="graded ui-selectmenu-hasIcon"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"><i class="icon-check"></i></span>
+        <span class="ui-selectmenu-item-header">
+          Tionne Woolfolk
+        </span>
+    </a></li><li role="presentation" class="not_submitted ui-selectmenu-hasIcon ui-corner-bottom"><a href="#nogo" tabindex="-1" role="option" aria-selected="false">
+        
+        <span class="ui-selectmenu-item-icon speedgrader-selectmenu-icon"></span>
+        <span class="ui-selectmenu-item-header">
+          Test Student
+        </span>
+    </a></li></ul></div></body></html>
